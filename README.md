@@ -22,12 +22,6 @@
 
 <!-- tutorial -->
 
-## Tutorial
-
-- This repository is part of a youtube tutorial series , if you are interested to learn how to development is done , you can go through this playlist.https://www.youtube.com/playlist?list=PLGmKMg3aRkXguVpBmQLtXbTXf1Fzd1sWt
-
-<!-- Prerequisites -->
-
 ## Usage
 
 - Run npm install.
