@@ -1,12 +1,12 @@
 # Google-Meet-Clone
 
 <p align="center"> 
-  <h3 align="center">Google Meet Clone</h3>
+  <h3 align="center">Huddle.We</h3>
 
   <p align="center">
-    Google Meet Clone!
+    Huddle with anyone!
     <br />  
-     A Video Conference App Similar to Google Meet
+     A Video Conference App.
     <br />
   </p>
 </p>
@@ -36,24 +36,7 @@
 
 <!-- Demo -->
 
-## Demo
 
-- The App can support upto 8-12 users without having any UI alignment issues
-
-- Desktop View
-  ![](screenshots/Desktop%20View.jpg)
-
-- Desktop Sharing View
-  ![](screenshots/Screenshare.jpg)
-
-- Mobile View
-  <br />
-
-![](screenshots/Mobile%20View.jpg)
-
-<!-- CONTACT -->
-
-## Contact
 
 Instagram - [@Instagram](https://www.instagram.com/ckalgos/) - ckalgos@gmail.com
 
